@@ -7,7 +7,8 @@ var coder = {
     languages: ["JS", "Ruby", "python", "C#"],
     company: {
         name:" Hackeric Consulting",
-        location: "San Francisco"
+        location: "San Francisco",
+        type: "Ltd"
 
     },
 
