@@ -12,7 +12,9 @@ var coder = {
 
     },
 
-   
+    logStatus: function () {
+        console.log('working from office!');
+    },
 
     logProfile: function () {
         console.log('username: ' + this.username);
